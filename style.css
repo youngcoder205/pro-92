@@ -1,0 +1,63 @@
+#body_background{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+.login_1 , .login_2{
+	background-color:aqua;
+	border-radius: 20px;
+	padding: 20px;
+	float: none;
+	margin-top: 20px;
+}
+
+button{
+	margin-top: 30px;
+	
+}
+
+#The_math_section{
+	color: white !important ;
+	padding-bottom: 30px;
+}
+
+#body{
+	background-color: rgb(241, 88, 88);
+	background-image: url("background.jpg") ;
+	background-size : cover;
+}
+
+#output{
+	background-color: white;
+	border-top: 5px solid red ;
+	border-radius: 10px;
+	height: auto;
+	padding: 20px;
+	float: none;
+	
+}
+
+#no_1 , #no_2{
+	border-radius: 10px;
+	text-align: center;
+}
+
+#main_div {
+	background-color: skyblue;
+	border-radius: 30px; 
+	margin-top: 60px ;
+}
+
+#back{
+	margin-bottom: 30px;
+}
+
+#login_div{
+	background-color: skyblue;
+	border-radius: 30px; 
+	margin-top: 130px ;
+}
+
+#Login_button{
+	margin-bottom: 30px;
+}
